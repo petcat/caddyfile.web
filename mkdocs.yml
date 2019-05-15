@@ -1,1 +1,12 @@
 site_name: Caddyfile
+site_url: https://caddyfile.cf
+site_description: 一个专门介绍 caddy config 配置文档 Caddyfile 的网站
+site_author: caddy
+repo_url: #
+copyright: Copyright &copy; 2019 <a href="https://caddyfile.cf">Caddyfile</a> | Hosted by <a href="https://my.hostus.us/aff.php?aff=408" title="HostUS">HostUS Hosting</a>.
+#
+theme:  readthedocs
+nav:
+    - 首页: index.md
+      -- 配置: option.md
+    - 关于: about.md
